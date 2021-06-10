@@ -1,2 +1,2 @@
 
-![Imagem da Interface](./print-da-interface/print-da-interface.png?raw=true "Whatsapp UI")
+![Imagem da Interface](./img/print-da-interface.png?raw=true "Whatsapp UI")
