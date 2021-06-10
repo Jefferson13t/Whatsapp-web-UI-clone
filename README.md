@@ -1,4 +1,4 @@
-##clone da interface do Whatsapp Web feito com React.js
+Clone da interface do Whatsapp Web feito com React.js
 
 Imagem do projeto:
 
