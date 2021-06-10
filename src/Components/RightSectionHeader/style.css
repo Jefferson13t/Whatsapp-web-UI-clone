@@ -1,0 +1,33 @@
+.right__header {
+    height: 59px;
+    width: 100%;
+    background-color: #2a2f32;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.right__header--left {
+    display: flex;
+}
+
+.right__header--left img{
+    height: 6vh;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.right__header--right {
+    width: 80px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.right__header--right img{
+    height: 3.5vh;
+    margin-right: 10px;
+}

@@ -1,0 +1,43 @@
+.message {
+    background-color: #056162;
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    min-height: 30px;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 2px;
+    color: white;
+    word-wrap:break-word;
+    display: flex;
+}
+
+
+.message span {
+    position: relative;
+    top: 10px;
+    font-size: 10pt;
+    margin-left: 20px;
+}
+
+.message img {
+    height: 12px;
+    position: relative;
+    top: 12px;
+    color: white;
+    opacity: .5;
+    margin-left: 5px;
+}
+
+#mais {
+    display: none;
+}
+
+.message:hover #visualizado{
+    display: none;
+}
+
+.message:hover #mais{
+    height: 13px;
+    display: inline;
+}

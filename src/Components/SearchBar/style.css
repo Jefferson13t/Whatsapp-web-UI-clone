@@ -1,0 +1,36 @@
+.container__pesquisar {
+    width: 100%;
+    height: 50px;
+    background-color: #131c21;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pesquisar {
+    width: 90%;
+    border-radius: 30px;
+    background-color: #323739;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lupa {
+    margin: 0 10px;
+    width: 15px;
+}
+
+.pesquisar__input {
+    width: 90%;
+}
+
+.pesquisar__input input {
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: #323739;
+    font-size: 12pt;
+    color: white;
+}
